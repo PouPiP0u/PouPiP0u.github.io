@@ -42,7 +42,7 @@ haut li a {
 /* ********** IMAGE PINCIPALE ********** */
 #imagePrincipale {
 	padding-top: 60px;
-	background: url(media/patate.jpg) no-repeat fixed 50% 50%;
+	background: url(patate.jpg) no-repeat fixed 50% 50%;
 	background-size: cover;
 	height: 799px;
 }
